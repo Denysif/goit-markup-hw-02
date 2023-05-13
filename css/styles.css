@@ -152,7 +152,7 @@ color: #434455
 }
 .hero-button:hover
 .hero-button:focus {
-    background-color: #404BBF;
+    color: #404BBF;
 }
 
 
