@@ -25,27 +25,43 @@ body {
 /* текст футер #F4F4FD */
 
 .logo {
-    color: var(--title-text-color);
-    font-family: Raleway, sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+    text-decoration: none;
 }
 .logo >span {
-    color: var(--accent-color);
+    font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+     color: #2E2F42;
 }
-.site-nav .link {
+    
+.list {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--title-text-color);
+    color: #2E2F42;
+    list-style: none;
 }
-.site-nav .link:hover,
-.site-nav .link:focus {
-    color: var(--accent-color);
+.list-link:hover,
+.list-link:focus {
+    color: #404bbf;
 }
 
 /* Address */
 
 .contact-nav .link {
+    font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -55,7 +71,7 @@ body {
 
 .contact-nav .link:hover,
 .contact-nav .link:focus {
-    color: #4D5AE5;
+    color: #404bbf;
 }
 
 /* Футер */
