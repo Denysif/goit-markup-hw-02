@@ -36,7 +36,7 @@ body {
     text-decoration: none;
 }
 .logo-link >span {
-    font-family: 'Raleway';
+    font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -60,7 +60,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
 color: #2E2F42;
-list-style: none;
+/* list-style: none; */
 text-decoration: none;
 
 }
@@ -141,6 +141,7 @@ color: #434455
     color: #ffffff;
 }
 .hero-button {
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
