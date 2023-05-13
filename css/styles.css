@@ -53,6 +53,16 @@ body {
     color: #2E2F42;
     list-style: none;
 }
+.list-link {
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2E2F42;
+list-style: none;
+text-decoration: none;
+
+}
 .list-link:hover,
 .list-link:focus {
     color: #404bbf;
@@ -60,17 +70,26 @@ body {
 
 /* Address */
 
-.contact-nav .link {
+.contact-list {
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455
+}
+.contact-list .link {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    
 }
 
-.contact-nav .link:hover,
-.contact-nav .link:focus {
+.contact-list .link:hover,
+.contact-list .link:focus {
     color: #404bbf;
 }
 
