@@ -89,8 +89,8 @@ color: #434455
     
 }
 
-.contact-list .link:hover,
-.contact-list .link:focus {
+.address-list-link:hover,
+.address-list-link:focus {
     color: #404bbf;
 }
 
