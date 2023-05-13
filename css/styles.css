@@ -24,7 +24,7 @@ body {
 /* колір ховер #404BBF */
 /* текст футер #F4F4FD */
 
-.logo {
+.logo-link {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -35,7 +35,7 @@ body {
     color: #4d5ae5;
     text-decoration: none;
 }
-.logo-color link {
+.logo-link >span {
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
     font-size: 18px;
@@ -185,7 +185,7 @@ color: #434455
 }
 /* Team */
 .team {
-    background-color: #FFFFFF;
+    background-color: #F4F4FD;
 }
 .team-title {
     font-weight: 700;
@@ -202,6 +202,7 @@ color: #434455
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--title-text-color);
+    background-color: #ffffff;
 }
 .team-item {
     font-weight: 400;
@@ -209,6 +210,7 @@ color: #434455
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--primary-text-color);
+    background-color: #ffffff;
 }
 
 /* Button */
