@@ -177,7 +177,7 @@ color: #434455
 .work-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
@@ -185,12 +185,12 @@ color: #434455
 }
 /* Team */
 .team {
-    background-color: var(--team-background-color);
+    background-color: #FFFFFF;
 }
 .team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
