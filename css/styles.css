@@ -45,6 +45,9 @@ body {
      color: #2e2f42;
      text-decoration: none;
 }
+.link {
+    text-decoration: none;
+}
     
 .list {
     font-weight: 500;
@@ -147,7 +150,7 @@ color: #434455
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    background-color: var(--accent-color);
+    background-color: #4D5AE5;
     cursor: pointer;
 }
 .hero-button:hover
