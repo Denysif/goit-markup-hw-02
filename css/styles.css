@@ -4,6 +4,7 @@
     --accent-color: #4D5AE5;
     --primary-background-color: #ffffff;
     --secondary-background-color: #2E2F42;
+    --team-background-color: #F4F4FD;
 }
 
 
@@ -144,6 +145,9 @@ body {
 }
 /* Team */
 .team {
+    background-color: var(--team-background-color);
+}
+.team-title {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.1;
