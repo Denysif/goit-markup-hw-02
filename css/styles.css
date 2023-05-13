@@ -24,7 +24,7 @@ body {
 /* колір ховер #404BBF */
 /* текст футер #F4F4FD */
 
-.link {
+.logo-link {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -35,14 +35,14 @@ body {
     color: #4d5ae5;
     text-decoration: none;
 }
-.link >span {
+.logo-link >span {
     font-family: 'Raleway';
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-     color: #2E2F42;
+     color: #2e2f42;
      text-decoration: none;
 }
     
