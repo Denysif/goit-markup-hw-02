@@ -24,7 +24,7 @@ body {
 /* колір ховер #404BBF */
 /* текст футер #F4F4FD */
 
-.logo-link {
+.link {
     font-family: 'Raleway', sans-serif;
     font-style: normal;
     font-weight: 800;
@@ -35,7 +35,7 @@ body {
     color: #4d5ae5;
     text-decoration: none;
 }
-.logo-link >span {
+.link >span {
     font-family: 'Raleway';
     font-weight: 800;
     font-size: 18px;
@@ -79,7 +79,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #434455
 }
-.address-list-link {
+.address-link {
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
@@ -89,8 +89,8 @@ color: #434455
     
 }
 
-.address-list-link:hover,
-.address-list-link:focus {
+.address-link:hover,
+.address-link:focus {
     color: #404bbf;
 }
 
