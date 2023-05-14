@@ -200,6 +200,9 @@ color: #434455
 .squad {
     background-color: #FFFFFF;
 }
+.team-list {
+    background-color: #FFFFFF;
+}
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -209,7 +212,7 @@ color: #434455
     text-transform: capitalize;
     color: var(--title-text-color);
 }
-.team-list {
+.team-list-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
