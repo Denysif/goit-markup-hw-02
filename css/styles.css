@@ -115,6 +115,7 @@ color: #434455
     font-size: 18px;
     line-height: 1.17;
     letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .footer-logo-s {
     font-family: Raleway, sans-serif;
@@ -124,6 +125,7 @@ color: #434455
     line-height: 1.17;
     letter-spacing: 0.03em;
     color: #F4F4FD;
+    text-transform: uppercase;
 }
  
 .footer-text {
@@ -195,6 +197,9 @@ color: #434455
 .team {
     background-color: #F4F4FD;
 }
+.squad {
+    background-color: #FFFFFF;
+}
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -210,7 +215,7 @@ color: #434455
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: var(--title-text-color);
-    background-color: #ffffff;
+   
 }
 .team-item {
     font-weight: 400;
