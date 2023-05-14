@@ -52,16 +52,26 @@ body {
     list-style: none;
 }
     
-.site-nav {
+/* .site-nav {
+    font-style: normal;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2E2F42;
-    list-style: none;
+    color: var(--title-text-color);
+} */
+.nav-list {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--title-text-color);
 }
-.site-nav:hover,
-.site-nav:focus {
+.nav-list:hover {
+    color: #404bbf;
+}
+.nav-list:focus {
     color: #404bbf;
 }
 
@@ -155,7 +165,7 @@ color: #434455
 /* Features */
 
 
-.features .features-list {
+.features-list {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
