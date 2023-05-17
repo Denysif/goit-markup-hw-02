@@ -180,7 +180,7 @@ color: #434455
     color: #ffffff;
     background-color: #4D5AE5;
     cursor: pointer;
-    padding-bottom: 188px;
+    margin-bottom: 188px;
 }
 .hero-button:hover {
     background-color: #404BBF;
@@ -192,6 +192,10 @@ color: #434455
 
 /* Features */
 
+.features {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
 
 .features-list {
     font-weight: 500;
@@ -206,8 +210,15 @@ color: #434455
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    margin-top: 8px;
 }
-/* Team */
+/* Work */
+
+.work {
+    padding-top: 120px;
+    padding-bottom: 120px;
+}
+
 .work-title {
     font-weight: 700;
     font-size: 36px;
